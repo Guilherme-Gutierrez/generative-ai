@@ -8,9 +8,15 @@
 
 -Gerar respostas a perguntas:
 
+![imagem de resposta do Copilot](images/copilot-response.png)
+
 -Gerar imagens:
 
+![Copilot gerando imagem de avião](images/copilot-image.png)
+
 -Gerar códigos de programação: 
+
+![código gerado pelo Copilot](images/copilot-code.png)
 
 ## Azure OpenAI
 
